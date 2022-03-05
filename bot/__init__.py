@@ -86,7 +86,7 @@ START_MESSAGE = get_config("START_MESSAGE", (
     "This bot is exclusively made  𝗙𝗜𝗟𝗠 𝗪𝗢𝗥𝗟𝗗 😜 " 
 
 
-    "⚡OWNER⚡ - @FILMWORLDOFFICIA "
+    "\n\n" "⚡OWNER⚡ - @FILMWORLDOFFICIA "
     "\n\n"
     f"To use me: read 👉 {REQD_PERMISSIONS} 👈"
     "\n\n"
