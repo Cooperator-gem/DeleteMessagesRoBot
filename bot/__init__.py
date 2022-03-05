@@ -79,18 +79,18 @@ def LOGGER(name: str) -> logging.Logger:
     return logging.getLogger(name)
 
 
-REQD_PERMISSIONS = "https://t.me/SpEcHlDe/857"
-GIT_REPO_LINK = "https://github.com/SpEcHiDe/DeleteMessagesRoBot"
+REQD_PERMISSIONS = "https://t.me/joinchat/VtTZc5al3Vt0te9_"
+GIT_REPO_LINK = "https://t.me/joinchat/-3Vjw61udNM3OWU9"
 """ strings to be used in the bot """
 START_MESSAGE = get_config("START_MESSAGE", (
     "This bot is exclusively made  𝗙𝗜𝗟𝗠 𝗪𝗢𝗥𝗟𝗗 😜 " 
 
 
-    "\n\n" "⚡OWNER⚡ - @FILMWORLDOFFICIA "
+    "\n\n" "⚡𝐎𝐖𝐍𝐄𝐑⚡ - @FILMWORLDOFFICIA "
     "\n\n"
-    f"To use me: read 👉 {REQD_PERMISSIONS} 👈"
+    f"♻𝐂𝐇𝐀𝐍𝐍𝐄𝐋♻ 👉 {REQD_PERMISSIONS} 👈"
     "\n\n"
-    f"In case of issues, contact 👉 {GIT_REPO_LINK} 👈"
+    f"⭕𝗚𝗥𝗢𝗨𝗣⭕ 👉 {GIT_REPO_LINK} 👈"
 ))
 START_COMMAND = get_config("START_COMMAND", "start")
 DEL_ALL_COMMAND = get_config("DEL_ALL_COMMAND", "delall")
