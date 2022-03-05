@@ -83,7 +83,9 @@ REQD_PERMISSIONS = "https://t.me/SpEcHlDe/857"
 GIT_REPO_LINK = "https://github.com/SpEcHiDe/DeleteMessagesRoBot"
 """ strings to be used in the bot """
 START_MESSAGE = get_config("START_MESSAGE", (
-    "I'm a bot that can delete <s>all</s> "
+    "ഈ ബോട്ട് 𝗙𝗜𝗟𝗠 𝗪𝗢𝗥𝗟𝗗 ഗ്രൂപ്പിലേക്ക് ഉള്ളത് എന്ന് ഇനി വീണ്ടും വീണ്ടും പറയണോ??
+
+ "
     "your channel or supergroup messages. "
     "\n\n"
     f"To use me: read 👉 {REQD_PERMISSIONS} 👈"
